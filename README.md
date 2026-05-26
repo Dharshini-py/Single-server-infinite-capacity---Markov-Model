@@ -18,7 +18,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
  
 ## Program
-```
+```python
 # Getting Inputs
 ArrivalTime = int(input("Enter the mean inter arrival time of objects from feeder (in secs) : "))
 ServiceTime = int(input("Enter the mean inter service time of the Lathe Machine (in secs) : "))
